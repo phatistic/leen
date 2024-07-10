@@ -1,0 +1,58 @@
+{
+    "name": "Leen",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "pxt-scaling": "github:jwunderl/pxt-scaling#v0.1.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-text": "github:pelikhan/arcade-image-text#v0.0.4",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.1",
+        "we": "github:novawithapizza/neural-networks#c576c685a9fb3fb811eccc9a2b2fd21eb120e4f4",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "arcade-block-objects": "github:microsoft/arcade-block-objects#f486ac1d4dcc096b9297174f97f8cdef1576c7ff"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.53",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#FF004D",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#1D2B53"
+    ]
+}
